@@ -1,0 +1,1 @@
+Za svaki projekt u VS code nanovo git config user.email i user.name, global ne radi OK
